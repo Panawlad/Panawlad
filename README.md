@@ -2,12 +2,10 @@
 
 ###
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/Panawlad/Panawlad/main/foto_ghibli.png" alt="Foto personal" />
-
+<img align="right" height="150" src="https://raw.githubusercontent.com/Panawlad/Panawlad/main/foto_ghibli.png" alt="Foto personal" style="border-radius: 50%;" />
 
 ###
 
-<div align="left">
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="12" />
@@ -25,7 +23,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++ logo" />
 </div>
-</div>
 
 ###
 
@@ -38,13 +35,16 @@
 </picture>
 
 ###
-
-###
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Panawlad/count.svg?"  />
+  <img src="https://streak-stats.demolab.com?user=Panawlad&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
+
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Visitors-0000-orange?style=for-the-badge&logo=github" alt="Visitors Counter Badge" />
+</div>
 
 
 ###
