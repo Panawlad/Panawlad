@@ -37,6 +37,6 @@
 
 <br clear="both">
 
-<img src="(https://github.com/Panawlad/Panawlad/blob/main/snake.yml" alt="Snake animation" />
+<img src="https://github.com/Panawlad/Panawlad/blob/main/snake.yml" alt="Snake animation" />
 
 ###
