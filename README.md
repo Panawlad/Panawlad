@@ -20,12 +20,6 @@
 </picture>
 
 ###
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Panawlad&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
-
-</div>
-
-###
 
 <div align="center">
   <img src="https://img.shields.io/badge/Visitors-0000-orange?style=for-the-badge&logo=github" alt="Visitors Counter Badge" />
